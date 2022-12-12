@@ -4,4 +4,16 @@
 padding: 0;
 border: 0;}
 
-body {font-family: lato;}
+body {font-family: lato;
+color: ghostwhite;}
+
+h1 {
+    font-family: Oswald;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: darkgreen;
+}
+
+#logo {float: left;
+font-size: 200%;
+}
