@@ -17,3 +17,14 @@ h1{
 #logo{float: left;
 font-size: 200%;
 }
+
+#order{
+    font-size: 110%;
+    list-style-type: none;
+    letter-spacing: 4px;
+}
+
+#order li {
+    float: right;
+    margin-right: 30px;
+}
