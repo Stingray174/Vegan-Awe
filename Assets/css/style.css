@@ -1,19 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
 
-* {margin: 0;
+*{margin: 0;
 padding: 0;
 border: 0;}
 
-body {font-family: lato;
+body{font-family: lato;
 color: ghostwhite;}
 
-h1 {
+h1{
     font-family: Oswald;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: darkgreen;
 }
 
-#logo {float: left;
+#logo{float: left;
 font-size: 200%;
 }
