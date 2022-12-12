@@ -18,13 +18,13 @@ h1{
 font-size: 200%;
 }
 
-#order{
+#menu{
     font-size: 110%;
     list-style-type: none;
     letter-spacing: 4px;
 }
 
-#order li {
+#menu li {
     float: right;
     margin-right: 30px;
 }
