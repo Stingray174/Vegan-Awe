@@ -15,7 +15,7 @@ h1{
 }
 
 #logo{float: left;
-font-size: 200%;
+font-size: 280%;
 }
 
 #menu{
@@ -24,7 +24,28 @@ font-size: 200%;
     letter-spacing: 4px;
 }
 
+#logo, #menu{
+    line-height: 75px;
+}
+
 #menu li {
     float: right;
     margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover{
+    border-bottom: 1px solid #777777;
+}
+
+.active{
+    border-bottom: 1px solid #777777;
+}
+#hero-image{height: 600px;
+width: 100%;
+    background: url("https://pixabay.com/photos/alternative-aromatherapy-avocado-906138//workspace/Vegan-Awe/Assets/images/alternative-906138_640.jpg") no-repeat center center;
 }
